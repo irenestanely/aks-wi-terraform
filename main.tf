@@ -138,8 +138,3 @@ module "aks-setup" {
   aks_namespace = "irenes-namespace"
 }
 
-
-# module "aks-scaleunit2" {
-
-# }
-
